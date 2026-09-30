@@ -1,0 +1,23 @@
+{
+  "domain": "CRISPRGuide AI",
+  "subtitle": "Guide RNA Specificity, Off-Target Analysis & Cas9 Cleavage",
+  "glossary": [
+    {
+      "term": "PAM",
+      "definition": "Protospacer Adjacent Motif; a short sequence required adjacent to the target site for Cas9 binding and cleavage."
+    },
+    {
+      "term": "Off-Target Effect",
+      "definition": "Unintended CRISPR cleavage at genomic sites with sequence similarity to the intended guide RNA target."
+    },
+    {
+      "term": "pegRNA",
+      "definition": "Prime editing guide RNA; combines a spacer sequence with a reverse transcriptase template and primer binding site."
+    }
+  ],
+  "starter_prompts": [
+    "Score sgRNA on-target efficiency",
+    "Scan genome for off-target cleavage",
+    "Select prime editing pegRNA scaffold"
+  ]
+}
